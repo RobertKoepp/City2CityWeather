@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Comfortaa", cursive;
+  font-family: "Open Sans", sans-serif;
+  background-color: bisque;
+}
+
+.input {
+  text-align: center;
+}
+
+input[type="text"] {
+  height: 50px;
+  width: 600px;
+  background: #ffffff;
+  font-family: "Comfortaa", cursive;
+  font-weight: bold;
+  font-size: 20px;
+  border: none;
+  border-radius: 2px;
+  padding: 10px 10px;
+}
+
+input[type="submit"] {
+  height: 50px;
+  width: 100px;
+  background: #ffffff;
+  font-family: "Comfortaa", cursive;
+  font-weight: bold;
+  font-size: 20px;
+  border: none;
+  border-radius: 2px;
+}
+
+.display {
+  text-align: center;
+}
